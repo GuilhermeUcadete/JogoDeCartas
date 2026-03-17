@@ -1,6 +1,11 @@
 # JogoDeCartas
 Um framework modular em C# para criação de jogos de cartas.
 A solução foi projetada com foco em extensibilidade, clareza arquitetural e reutilização de componentes, permitindo implementar qualquer tipo de jogo baseado em baralho — como Blackjack, Poker, Truco, etc.
+## Integrantes do grupo
+
+Eduardo Lima RM554804
+Guilherme Ulacco RM558418
+Matheus Hostim RM556517
 
 ## Enums
 
