@@ -6,6 +6,7 @@ A solução foi projetada com foco em extensibilidade, clareza arquitetural e re
 Eduardo Lima RM554804
 Guilherme Ulacco RM558418
 Matheus Hostim RM556517
+Enzo Motta RM555372
 
 ## Enums
 
