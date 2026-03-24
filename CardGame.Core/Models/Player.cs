@@ -1,11 +1,14 @@
-
-namespace CardGame.Core.Models
+namespace JogoDeCartas.Models
 {
     public class Player
     {
-        public string Name { get; }
-        public Hand Hand { get; } = new();
-        public Player(string name) { Name = name; }
-        public override string ToString() => Name;
+        public Guid Id { get; set; } = Guid.NewGuid(); // ID único para o histórico
+        public string Name { get; set; }
+        public int Wins { get; set; }
+
+        public Player(string name)
+        {
+            Name = name;
+        }
     }
 }
